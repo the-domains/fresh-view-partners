@@ -1,0 +1,28 @@
+name: Fresh View Partners
+favicon: null
+layout_spectrum: 0.45001783198677003
+typography_spectrum: 0.23177206120453775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.18097068439237773
+  lightness: 0.9155253909993917
+  saturation: 0.20278821606189013
+  rhythmicContrast: 0.5454442950431257
+purpose: []
