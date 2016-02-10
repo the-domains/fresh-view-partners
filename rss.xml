@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[Fresh View Partners]]></title>
         <description><![CDATA[Fresh View Partners]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fresh-view-partners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 23:15:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 23:17:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fresh-view-partners/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fresh View Partners : Your Strategic Advisors]]></title>
             <description><![CDATA[<article><h1>Fresh View Partners : Your Strategic Advisors</h1><p>Located in Napa Valley, Fresh View Partners, LLC is a strategic advisory firm focused on the success of wineries and other closely-held businesses.
  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8180996fca68ccc41f2d0456b3a980e5e713f97a.png"></article>]]></description>
-            <link>undefinedfresh-view-partners-your-strategic-advisors/index.html</link>
+            <link>https://thegrid.ai/fresh-view-partners/fresh-view-partners-your-strategic-advisors/index.html</link>
             <guid isPermaLink="false">16ef8488-633c-4086-b094-f0da8aec233f</guid>
-            <pubDate>Wed, 10 Feb 2016 23:15:49 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 23:17:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
